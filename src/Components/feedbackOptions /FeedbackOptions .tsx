@@ -16,5 +16,5 @@ const FeedbackOptions = ({ options, onLeaveFeedback }: Props) => {
     </button>
   ));
 };
-
+<div></div>
 export default FeedbackOptions;
